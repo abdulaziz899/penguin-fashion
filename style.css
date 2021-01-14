@@ -1,0 +1,27 @@
+.logo img{
+    width: 195px;
+    height: 60px;
+}
+.color-1{
+    color:rgb(240, 143, 17);
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.color-2{
+    color:rgb(27, 20, 61);
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.color-3 img{
+background-color: rgba(167, 173, 184, 0.397);
+width: 200px;
+height: 250px;
+margin: 0px auto;
+    transition:  1s ease-in-out .5s;
+}
+.color-3 img:hover{
+    transform: scale(1.2);
+}
